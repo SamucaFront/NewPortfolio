@@ -1,2 +1,2 @@
 # Portfólio - Samuel Reges
-ESCREVA OQ QUER	
+GIT PULL DEU CERTO
